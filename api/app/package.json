@@ -1,4 +1,14 @@
 {
+    "author": {
+        "name": "Vipin Shukla",
+        "email": "vipinshukla5805@gmail.com",
+        "url": "https://github.com/vipinshukla5805/React-Node-MongoDB-Boilerplate"
+    },
+    "description": "a simple node react and mongo db startup project",
+    "bugs": {
+        "email": "vipinshukla5805@gmail.com",
+        "url": "https://github.com/vipinshukla5805/React-Node-MongoDB-Boilerplate/issues"
+    },
     "name": "node-api",
     "main": "server.js",
     "dependencies": {
